@@ -9,6 +9,6 @@ package firstrespondermanagementsystem;
  *
  * @author matth
  */
-public class Vehicle {
+public class Vehicle extends Inventory{
     
 }

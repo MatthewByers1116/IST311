@@ -9,6 +9,6 @@ package firstrespondermanagementsystem;
  *
  * @author matth
  */
-public class Inventory {
+public abstract class Inventory {
     
 }

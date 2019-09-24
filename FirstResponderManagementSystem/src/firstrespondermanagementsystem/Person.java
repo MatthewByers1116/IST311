@@ -9,6 +9,6 @@ package firstrespondermanagementsystem;
  *
  * @author matth
  */
-public class Person {
+public abstract class Person {
     
 }

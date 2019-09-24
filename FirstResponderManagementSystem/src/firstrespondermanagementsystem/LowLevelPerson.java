@@ -9,6 +9,6 @@ package firstrespondermanagementsystem;
  *
  * @author matth
  */
-public class LowLevelPerson {
+public class LowLevelPerson extends Person {
     
 }
